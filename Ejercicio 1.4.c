@@ -1,3 +1,12 @@
+/* UTN FRBA SSL - HelloWorld
+ * Ejercicio1.4.c
+ *
+ * 2015 04 14
+ * por Nicolas Gastiazoro
+ *
+ * Programa para transformar grados Celcius en grados Fahrenheit
+ */
+
 #include <stdio.h>
 
 main()
